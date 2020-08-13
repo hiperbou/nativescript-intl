@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "nativescript-intl@4.0.1",
+      "C:\\Datos\\PlayJoy\\Neo\\app\\playjoy"
+    ]
+  ],
+  "_from": "nativescript-intl@4.0.1",
+  "_id": "nativescript-intl@4.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-KTIo7Alh4CKU4J8d1HfG38VKmSqVKhCRADh/6omR3hS4BNsVpYbcdxUOwerzcbZBWlG7mcdMnctYg5gc4f+E9A==",
+  "_location": "/nativescript-intl",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-intl@4.0.1",
+    "name": "nativescript-intl",
+    "escapedName": "nativescript-intl",
+    "rawSpec": "4.0.1",
+    "saveSpec": null,
+    "fetchSpec": "4.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-intl/-/nativescript-intl-4.0.1.tgz",
+  "_spec": "4.0.1",
+  "_where": "C:\\Datos\\PlayJoy\\Neo\\app\\playjoy",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "description": "Provides API for using Native date, time and number formatting with an API similar to Intl.js",
+  "keywords": [
+    "NativeScript",
+    "localization",
+    "globalization",
+    "formatting",
+    "currency",
+    "nativescript-angular"
+  ],
+  "name": "nativescript-intl",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "version": "4.0.1"
+}
